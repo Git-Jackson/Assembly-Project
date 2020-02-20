@@ -1,3 +1,4 @@
+# ---- add comment ---- #
 .data
 PRINT1:	.asciiz "Enter the first integer: "
 PRINT2: .asciiz "Enter the second integer: "
